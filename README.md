@@ -1,5 +1,9 @@
 # About me
+Hello World!
+
+
 This repository is for practicing the GitHub Flow.
+
 
 ## Who is this person?
   Hi, my name is Whitney.
