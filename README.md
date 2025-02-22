@@ -1,6 +1,5 @@
 # hello-world
 
-
 ## Who is this person?
   Hi, my name is Whitney.
   I'm from the Netherlands and I just started to learn how to code.
